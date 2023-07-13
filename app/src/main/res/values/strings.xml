@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">New York Times</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signup">Signup</string>
+    <string name="email_and_password">Please signup with name, email and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="password_error">Password must contain at least\n8 characters with \n1 number\n1 uppercase\n1 special character</string>
+    <string name="loading">Loading...</string>
+    <string name="name_error">Please enter a valid name</string>
+    <string name="email_error">Please enter a valid email\n</string>
+    <string name="password_error_ph">Password Error</string>
+    <string name="most_emailed">Most Emailed</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="most_shared">Most Shared</string>
+    <string name="header">Header</string>
+    <string name="generic_error">Something went wrong!!</string>
+</resources>
