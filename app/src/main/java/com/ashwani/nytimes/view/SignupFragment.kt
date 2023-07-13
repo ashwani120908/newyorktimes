@@ -29,9 +29,9 @@ class SignupFragment : Fragment() {
 
     private fun setupUi() {
         binding.btSignup.setOnClickListener(View.OnClickListener {
-//            if (checkAllFields()) {
+            if (checkAllFields()) {
             findNavController().navigate(R.id.action_signupFragment_to_dashboardFragment)
-//            }
+            }
         })
     }
 
